@@ -4,7 +4,7 @@ gene2tf is a software which performed annotation of human transcription factors 
 >Usage 
 $sh gene2tf.sh humangene.txt
 
-> Description
+> Description:
  allow annotation of Transcription Factors (Vaquerizas et al., 2009)
 
 > References
