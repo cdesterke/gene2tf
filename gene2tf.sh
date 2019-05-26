@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/usr/bin/bash
 ## Annotation of human genes:   1st column of text file needs to contain human gene symbol list
 ## Author: Christophe Desterke
 ## Version 1.0.1
